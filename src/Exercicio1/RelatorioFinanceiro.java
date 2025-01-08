@@ -3,10 +3,10 @@ public class RelatorioFinanceiro {
         GeradorRelatorioFinanceiro gerador = new GeradorRelatorioFinanceiro();
         EnviadorEmail enviador = new EnviadorEmail();
 
-
+        //Gerar o relatório
         gerador.gerarRelatorio();
 
-
+        // Enviar o relatório por e-mail
         enviador.enviarPorEmail();
 
     }
