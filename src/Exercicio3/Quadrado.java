@@ -13,5 +13,8 @@ public class Quadrado implements Forma {
         this.lado = lado;
     }
 
-
+    @Override
+    public int getArea() {
+        return lado * lado;
+    }
 }
