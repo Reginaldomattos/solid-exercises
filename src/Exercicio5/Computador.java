@@ -4,4 +4,8 @@ public class Computador {
     public Computador(DispositivoEntrada dispositivoEntrada) {
         this.dispositivoEntrada = dispositivoEntrada;
     }
+
+    public void usarDispositivo() {
+        dispositivoEntrada.usar();
+    }
 }
