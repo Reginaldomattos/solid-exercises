@@ -3,13 +3,13 @@ public class Main {
         Calculadora calculadora = new Calculadora();
 
         // Registrando operações
-        calculadora.registrarOperacao("soma", new soma());
+        calculadora.registrarOperacao("soma", new Soma());
         calculadora.registrarOperacao("subtracao", new Subtracao());
         calculadora.registrarOperacao("multiplicacao", new Multiplicacao());
 
         // Usando a calculadora
         System.out.println("Soma: " + calculadora.calcular("soma", 5, 3));
-        System.out.println("Subtracao: " + calculadora.calcular("subtracao", 5, 3);
+        System.out.println("Subtração: " + calculadora.calcular("subtracao", 5, 3));
         System.out.println("Multiplicação: " + calculadora.calcular("multiplicacao", 5, 3));
 
     }
