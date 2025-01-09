@@ -6,7 +6,7 @@
         <entry key="reginaldo.mattos@zup.com.br">
           <value>
             <ProjectStateData>
-              <option name="conversationId" value="01JH5PQQ0XDKZS5NSP7YDFP0CK" />
+              <option name="conversationId" value="01JH5RY3FWXQYB4QZA1R0VHDMP" />
               <option name="indexedFiles">
                 <map>
                   <entry key="$PROJECT_DIR$/src/Exercicio1/EnviadorEmail.java" value="2016" />
@@ -24,6 +24,13 @@
                   <entry key="$PROJECT_DIR$/src/Exercicio4/AtendenteBanco.java" value="62610" />
                   <entry key="$PROJECT_DIR$/src/Exercicio4/Desenvolvedor.java" value="61780" />
                   <entry key="$PROJECT_DIR$/src/Exercicio4/Programador.java" value="60505" />
+                  <entry key="$PROJECT_DIR$/src/Exercicio5/Computador.java" value="67730" />
+                  <entry key="$PROJECT_DIR$/src/Exercicio5/DispositivoEntrada.java" value="62880" />
+                  <entry key="$PROJECT_DIR$/src/Exercicio5/Main5.java" value="72879" />
+                  <entry key="$PROJECT_DIR$/src/Exercicio5/Mouse.java" value="64267" />
+                  <entry key="$PROJECT_DIR$/src/Exercicio5/Teclado.java" value="63561" />
+                  <entry key="$PROJECT_DIR$/src/ExercicioBonus/ContaBancaria.java" value="105004" />
+                  <entry key="$PROJECT_DIR$/src/ExercicioBonus/ContaCorrente.java" value="105555" />
                 </map>
               </option>
               <option name="projectId" value="01JH1AF3X0QFK8KVSCDJRZ4NK9" />
