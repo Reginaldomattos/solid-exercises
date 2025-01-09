@@ -9,6 +9,15 @@
               <option name="conversationId" value="01JH64KX37FG7DKJYVDGXCFGMD" />
               <option name="indexedFiles">
                 <map>
+                  <entry key="$PROJECT_DIR$/src/Bonus/Conta.java" value="134724" />
+                  <entry key="$PROJECT_DIR$/src/Bonus/ContaCorrente.java" value="135572" />
+                  <entry key="$PROJECT_DIR$/src/Bonus/ContaPoupanca.java" value="136727" />
+                  <entry key="$PROJECT_DIR$/src/Bonus/Notificacao.java" value="137186" />
+                  <entry key="$PROJECT_DIR$/src/Bonus/NotificacaoEmail.java" value="138234" />
+                  <entry key="$PROJECT_DIR$/src/Bonus/NotificacaoSMS.java" value="139755" />
+                  <entry key="$PROJECT_DIR$/src/Bonus/ServicoTransacao.java" value="143309" />
+                  <entry key="$PROJECT_DIR$/src/Bonus/Taxa.java" value="120827" />
+                  <entry key="$PROJECT_DIR$/src/Bonus/TaxaContaCorrente.java" value="122324" />
                   <entry key="$PROJECT_DIR$/src/Exercicio1/EnviadorEmail.java" value="2016" />
                   <entry key="$PROJECT_DIR$/src/Exercicio1/GeradorRelatorioFinanceiro.java" value="1198" />
                   <entry key="$PROJECT_DIR$/src/Exercicio1/RelatorioFinanceiro.java" value="5291" />
