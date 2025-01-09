@@ -32,6 +32,9 @@
                   <entry key="$PROJECT_DIR$/src/ExercicioBonus/ContaBancaria.java" value="105004" />
                   <entry key="$PROJECT_DIR$/src/ExercicioBonus/ContaCorrente.java" value="107541" />
                   <entry key="$PROJECT_DIR$/src/ExercicioBonus/ContaPoupanca.java" value="111211" />
+                  <entry key="$PROJECT_DIR$/src/ExercicioBonus/IServicoNotificacao.java" value="111887" />
+                  <entry key="$PROJECT_DIR$/src/ExercicioBonus/ServicoNotificacaoEmail.java" value="114416" />
+                  <entry key="$PROJECT_DIR$/src/ExercicioBonus/ServicoNotificacaoSms.java" value="114909" />
                 </map>
               </option>
               <option name="projectId" value="01JH1AF3X0QFK8KVSCDJRZ4NK9" />
