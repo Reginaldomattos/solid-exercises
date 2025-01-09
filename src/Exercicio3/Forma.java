@@ -1,2 +1,3 @@
-public class Forma {
+public interface Forma {
+    int getArea();
 }
