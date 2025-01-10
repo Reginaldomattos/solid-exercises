@@ -1,3 +1,3 @@
 interface Notificacao {
-    void enviar(String menssagem)
+    void enviar(String mensagem);
 }

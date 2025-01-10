@@ -1,5 +1,5 @@
-public class ContaPoupanca extends Conta {
-    public ContaCorrente() {
+class ContaPoupanca extends Conta {
+    public ContaPoupanca() {
         super(new TaxaContaPoupanca());
     }
 }

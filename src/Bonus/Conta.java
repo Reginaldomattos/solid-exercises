@@ -12,7 +12,7 @@ public class Conta {
 
     public void sacar(double valor) {
         double taxaCalculada = taxa.calcularTaxa(valor);
-        if (saldo >= (valor + taxaCalculada));
+        if (saldo >= (valor + taxaCalculada)) {
             saldo -= (valor + taxaCalculada);
     } else {
         throw new IllegalArgumentException("Saldo insuficiente!");
